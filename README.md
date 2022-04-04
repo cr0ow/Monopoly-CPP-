@@ -1,1 +1,1 @@
-Project written at university - Monopoly with console gameplay in C++.
+Project written on C++ course at university.
