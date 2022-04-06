@@ -1,1 +1,2 @@
-Project written on C++ course at university.
+# Monopoly
+Monopoly with console gamepley.
